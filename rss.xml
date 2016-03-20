@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[zoltan hair]]></title>
+        <description><![CDATA[zoltan hair]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 22:59:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Brazikian Keratin treatment</p>]]></description>
+            <link>undefined14c072a7-71f9-4380-82a5-57990e736c38/index.html</link>
+            <guid isPermaLink="false">14c072a7-71f9-4380-82a5-57990e736c38</guid>
+            <pubDate>Sun, 20 Mar 2016 22:59:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
