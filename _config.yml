@@ -1,0 +1,28 @@
+name: zoltan hair
+favicon: null
+layout_spectrum: 0.38425735803321004
+typography_spectrum: 0.02574261953122914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.22636222513392568
+  lightness: 0.07733178860507905
+  saturation: 0.35000032442621887
+  rhythmicContrast: 0.35620771860703826
+purpose: []
