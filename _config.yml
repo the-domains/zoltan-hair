@@ -1,29 +1,41 @@
-name: zoltan hair
-favicon: null
-layout_spectrum: 0.38425735803321004
-typography_spectrum: 0.02574261953122914
 title: Hair texture
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3500003244262189
+  brandStrength: 1
+  lightness: 0.07733178860507905
+  brandColors:
+    - '#1F160D'
+    - '#BBB6A2'
+    - '#91917F'
+    - '#FAFDF9'
+    - '#64655C'
+  rhythmicContrast: 0.3562077186070383
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: zoltan hair
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.22636222513392568
-  lightness: 0.07733178860507905
-  saturation: 0.35000032442621887
-  rhythmicContrast: 0.35620771860703826
-purpose: []
+typography_spectrum: 0.02574261953122914
+layout_spectrum: 0.38425735803321
